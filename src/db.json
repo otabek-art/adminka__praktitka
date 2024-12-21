@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "bb5d",
+      "name": "admin",
+      "description": "forty",
+      "image": "https://i.guim.co.uk/img/media/54473a6bbec3abc8a550cb6f03f175afdec7b1b8/0_267_5035_3021/master/5035.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5f89d851b3d196a04f1d2ee07c1e55d6"
+    },
+    {
+      "name": "GGGG",
+      "description": "forty",
+      "image": "https://i.guim.co.uk/img/media/54473a6bbec3abc8a550cb6f03f175afdec7b1b8/0_267_5035_3021/master/5035.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5f89d851b3d196a04f1d2ee07c1e55d6",
+      "id": "f008"
+    }
+  ]
+}
